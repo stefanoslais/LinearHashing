@@ -4,7 +4,7 @@
 
 **Σχετικά με το πρόγραμμα, από README.txt**
 
-Το load limit λ ορίζεται από τον προγραμματιστή στο mvote.c:13 με #define
+Το load limit λ ορίζεται από τον προγραμματιστή στο mvote.c:13 με #define.
 To initial number m of buckets ορίζεται από τον προγραμματιστή στο hash_table.h:6 με #define
 
 Δίνεται ως έξτρα mvote εντολή η print hashtable που εκτυπώνει τα περιεχόμενα του hashtable
